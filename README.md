@@ -35,8 +35,18 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The brazen age the first act containing, the death of the centaure Nessus, the second, the tragedy o
+
+1. To the Reader.
+
+1. Drammatis Personae.
+
 #####Body#####
+
+1. The Brazen Age, CONTAINING The labours and death of Hercules.
+
+    _ Actus 1.
+
+    _ Actus 2.
 
 **Types of content**
 
